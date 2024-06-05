@@ -1,1 +1,1 @@
-# Mineral-Detection
+# Mineral_Detection
